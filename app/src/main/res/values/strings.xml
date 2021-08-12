@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NVD Evaluacion</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="connect">Conectado</string>
+    <string name="no_connect">Desconectado</string>
+    <string name="channel_nofif">NVD Evaluación Nasa</string>
+    <string name="channel_nofif_des">NVD Evaluación Nasa</string>
+    <string name="channel_id" translatable="false">NVDNasa</string>
+    <string name="notif_title">Fotos de la Nasa</string>
+    <string name="notif_content">Vea increibles fotos tomadas por la NASA</string>
+</resources>
